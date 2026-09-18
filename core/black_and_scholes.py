@@ -8,7 +8,7 @@ Il prend en compte le taux de dividende continu (q) :
 
 import math
 from scipy.stats import norm
-from core.instruments import OptionType, VanillaOption
+from core.instruments import OptionType
 
 
 def calculate_d1_d2(S: float, K: float, T: float, r: float, sigma: float, q: float = 0.0):
