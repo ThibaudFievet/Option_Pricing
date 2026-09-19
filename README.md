@@ -1,7 +1,6 @@
 # Option Pricing & Greeks Engine — Across Vanilla & Structured Products
 
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange.svg?style=flat)]()
 [![UI Framework](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 > **Moteur d'évaluation de produits dérivés, d'analyse des sensibilités (Grecques) et de modélisation financière, progressant des contrats vanilles jusqu'aux produits structurés.**
