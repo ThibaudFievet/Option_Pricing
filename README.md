@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange.svg?style=flat)]()
 [![UI Framework](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Core Engine](https://img.shields.io/badge/Core%20Engine-100%25%20Handcrafted-success.svg?style=flat)]()
-[![UI Development](https://img.shields.io/badge/UI%20Dev-AI--Assisted-blueviolet.svg?style=flat)]()
 
 > **Moteur d'évaluation de produits dérivés, d'analyse des sensibilités (Grecques) et de modélisation financière, progressant des contrats vanilles jusqu'aux produits structurés.**
 
