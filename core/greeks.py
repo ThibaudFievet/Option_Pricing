@@ -1,9 +1,9 @@
 """
-Ce module calcule les sensibilités (les « Grecques ») d'une option vanille.
+Ce module calcule les sensibilités (les Grecques) d'une option vanille.
     
 Il propose deux méthodes de calcul :
     1. Méthode analytique (formules fermées exactes dérivées de Black-Scholes-Merton).
-    2. Méthode numérique par différences finies centrales (« bump-and-revalue »).
+    2. Méthode numérique par différences finies centrales (bump-and-revalue).
     
 Toutes les formules respectent l'extension de Merton avec dividende continu (q).
 """

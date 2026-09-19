@@ -1,7 +1,8 @@
 """
 Ce fichier définit les structures de données fondamentales pour représenter les options vanilles.
 Il utilise des Enums pour restreindre les valeurs possibles à un ensemble fermé et strict, ce qui élimine les fautes de frappe et offre l'autocomplétion dans l'éditeur
-et une Dataclass pour encapsuler les caractéristiques du contrat sans code répétitif, en générant automatiquement le constructeur, un affichage lisible et la comparaison d'objets
+et une Dataclass pour encapsuler les caractéristiques du contrat sans code répétitif, en générant automatiquement le constructeur, un affichage lisible et la comparaison d'objets.
+Ces deux méthodes (Enums & Dataclass) n'était pas des méthodes que je connaissais avant ce projet.
 """
 
 from enum import Enum
