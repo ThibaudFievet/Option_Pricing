@@ -47,8 +47,11 @@ Le projet est actuellement en cours de développement. La complexité des modèl
 
 ### Étape 1 — Fondations Vanilles Européennes (Actuel)
 * Formalisation orientée objet des contrats vanilles ([instruments.py](core/instruments.py)).
-* Modèle de **Black-Scholes-Merton analytique** avec rendement de dividende continu continu `q` ([black_and_scholes.py](core/black_and_scholes.py)) :
+* Modèle de **Black-Scholes-Merton analytique** avec rendement de dividende continu `q` ([black_and_scholes.py](core/black_and_scholes.py)) :
   * Calcul des métriques intermédiaires :
     * `d1 = (ln(S / K) + (r - q + 0.5 * sigma^2) * T) / (sigma * sqrt(T))`
     * `d2 = d1 - sigma * sqrt(T)`
   * Prix exacts fermés pour Calls et Puts avec gestion des cas d'expiration (`T = 0`) et de volatilité nulle.
+* Moteur de calcul des sensibilités (**Grecques**) sous deux approches complémentaires ([greeks.py](core/greeks.py)) :
+  * Méthode analytique exacte : formules fermées de Black-Scholes-Merton pour Delta, Gamma, Vega, Theta et Rho.
+  * Méthode numérique par différences finies centrales (bump-and-revalue) : approximation locale par décalages calibrés (`dS`, `dsigma`, `dT`, `dr`).
