@@ -10,13 +10,13 @@
 ## Contexte du Projet & Démarche Personnelle
 
 ### Motivation
-En faisant l'inventaire de mon profil GitHub public, un constat s'est imposé : bien que j'aie développé de nombreux projets quantitatifs et d'analyse financière, la quasi-totalité d'entre eux demeuraient en dépôts privés, en grande partie parce qu'ils avaient été générés ou accélérés massivement avec l'intelligence artificielle. Aucun projet en accès libre ne mettait concrètement en valeur ma **technicité propre en finance de marché et ma compréhension des produits dérivés.
+En faisant l'inventaire de mon profil GitHub public, j'ai remarqué que bien que j'aie développé de nombreux projets quantitatifs et d'analyse financière, la quasi-totalité d'entre eux demeuraient en dépôts privés, en grande partie parce qu'ils avaient été générés ou accélérés massivement avec l'intelligence artificielle. Aucun projet en accès libre ne mettait concrètement en valeur ma technicité propre en finance de marché et ma compréhension des produits dérivés.
 
-D'un point de vue strictement personnel et pratique, ce projet n'a pas vocation immédiate à alimenter une stratégie de compte propre : n'ayant pas encore eu 21 ans (l'âge légal et réglementaire requis par la plupart des courtiers pour négocier les options sur marge et dérivés complexes), je ne négociais pas ces instruments en direct sur les marchés.
+D'un point de vue strictement personnel et pratique, ce projet n'a pas vocation immédiate à alimenter une stratégie de compte propre. En effet, n'ayant pas encore eu 21 ans (l'âge légal et réglementaire requis par la plupart des courtiers pour négocier les options sur marge et dérivés complexes), je ne négociais pas ces instruments en direct sur les marchés.
 
 La finalité de ce dépôt est donc 100 % académique, démonstrative et orientée apprentissage :
 1. **Démontrer ma technicité** sur les modèles stochastiques, la théorie de l'évaluation neutre au risque et la gestion des sensibilités de portefeuille.
-2. **Apprendre par la pratique** : aller bien plus loin que le cadre théorique et des sujets traités dispensés en cours magistraux à l'université en implémentant moi-même les modèles, en affrontant les cas limites numériques et en découvrant les subtilités algorithmiques.
+2. **Apprendre par la pratique** : aller bien plus loin que le cadre théorique et des sujets dispensés en cours magistraux à l'université en implémentant moi-même les modèles, en affrontant les cas limites numériques et en découvrant les subtilités algorithmiques.
 
 ---
 
